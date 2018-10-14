@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\rocvarga\documents\visual studio 2017\projects\varg_encryption\varg_encryption\encryption.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rocvarga\documents\visual studio 2017\projects\varg_encryption\varg_encryption\encryption.h(62): warning C4244: 'return': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\rocvarga\documents\visual studio 2017\projects\varg_encryption\varg_encryption\source.cpp(21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\rocvarga\documents\visual studio 2017\projects\varg_encryption\varg_encryption\source.cpp(21): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  Varg_Encryption.vcxproj -> C:\Users\rocvarga\Documents\Visual Studio 2017\Projects\Varg_Encryption\Debug\Varg_Encryption.exe
+  Varg_Encryption.vcxproj -> C:\Users\rocvarga\Documents\Visual Studio 2017\Projects\Varg_Encryption\Debug\Varg_Encryption.pdb (Partial PDB)
